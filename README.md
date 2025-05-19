@@ -4,6 +4,8 @@ Fully scanning a big game will take ages.
 
 - How does this work?
   - This works by hashing the thumbnails and then comparing the hash to the other thumbnails in that server, if 2 thumbnails have a similar hash it will count them as bots.
+- How do i configure this?
+  - The only thing you really gotta do is add your cookie to the script, all the other configurations are if you wanna experiement with the script.
 
 Credits to kanibals on discord for improving the script.
 
