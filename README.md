@@ -2,6 +2,8 @@
 Read the comments in the python script to figure out how to configure it.\
 Fully scanning a big game will take ages.
 
+**This project was just done for fun**
+
 - How does this work?
   - This works by hashing the thumbnails and then comparing the hash to the other thumbnails in that server, if 2 thumbnails have a similar hash it will count them as bots.
 - How do i configure this?
